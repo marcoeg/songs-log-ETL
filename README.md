@@ -1,3 +1,5 @@
+![alt text](https://img.shields.io/badge/python-3.7-blue) ![alt text](https://img.shields.io/badge/posgreSQL-12.1-orange)
+
 # Songs Log ETL 
 
 ### Abstract
@@ -73,6 +75,9 @@ The database schema is optimized for queries on song play analysis and it follow
 `songs` - songs in music database
 `artists` - artists in music database
 `time` - timestamps of records in songplays broken down into specific units
+
+##### Entity-Relationship Diagram
+![alt text](./img/sparkifydb-ER-diagram.png "schema")
 
 #### ETL Process
 
