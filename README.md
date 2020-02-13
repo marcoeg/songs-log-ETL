@@ -1,6 +1,6 @@
 ![alt text](https://img.shields.io/badge/python-3.7-blue) ![alt text](https://img.shields.io/badge/posgreSQL-12.1-orange)
 
-# Songs Log ETL 
+# Songs Log ETL PostgreSQL
 
 ### Abstract
 The Sparkify startup  wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to. Currently, they don't have an easy way to query their data, which resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
