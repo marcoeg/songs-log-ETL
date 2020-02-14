@@ -108,3 +108,14 @@ https://www.postgresql.org/docs/9.4/ddl-constraints.html
 https://www.postgresql.org/docs/8.3/datatype-numeric.html
 * `psql postgres` cheat sheet:
 https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546
+
+#### Starting PostgreSQL on Mac
+To have launchd start postgresql now and restart at login:
+```
+  $ brew services start postgresql
+```
+Or, if you don't want/need a background service you can just run:
+```
+  $ pg_ctl -D /usr/local/var/postgres start
+```
+
