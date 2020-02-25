@@ -1,4 +1,4 @@
-![alt text](https://img.shields.io/badge/python-3.7-blue) ![alt text](https://img.shields.io/badge/posgreSQL-12.1-orange)
+![alt text](https://img.shields.io/badge/python-3.7-blue) ![alt text](https://img.shields.io/badge/postgreSQL-12.1-orange)
 
 # Songs Log ETL PostgreSQL
 
